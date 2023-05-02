@@ -8,3 +8,6 @@ I am a recent graduate from @lewagon and passionate about fullstack development.
 - 📫 How to reach me: adm2217@columbia.edu
 - 😄 Pronouns: She/her
 - ⚡ I am French, Italian and American
+
+## Stats
+[![Alessia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerdtransmitter&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
