@@ -5,7 +5,7 @@ I am a recent graduate from @lewagon and passionate about fullstack development.
 
 - 🔭 I’m currently working on [Quand La Vie C'est Pourri](https://www.viepourrie.com)
 - 🌱 I’m currently learning ReactJS and advancing my CSS and SaSS skills
-- 📫 How to reach me: adm2217@columbia.edu
+- 📫 How to reach me: adm2217@columbia.edu or on [LinkedIn](https://www.linkedin.com/in/alessia-moison)
 - 😄 Pronouns: She/her
 - ⚡ I am French, Italian and American
 
