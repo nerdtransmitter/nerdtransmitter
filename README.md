@@ -10,4 +10,4 @@ I am a recent graduate from @lewagon and passionate about fullstack development.
 - ⚡ I am French, Italian and American
 
 ## Stats
-[![Alessia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerdtransmitter&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats&hide=stars,commits,prs)
+[![Alessia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerdtransmitter&show_icons=true&theme=blueberry&hide=stars,commits,prs)](https://github.com/anuraghazra/github-readme-stats)
