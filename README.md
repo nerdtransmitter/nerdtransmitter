@@ -1,6 +1,7 @@
-### Hi there 👋
-
 ![Header](https://github.com/nerdtransmitter/nerdtransmitter/blob/main/github-header.png?raw=true)
+
+   
+# A passionate full stack developer from Paris and New York
 
 I am a recent graduate from @lewagon and passionate about fullstack development. I love learning new languages and skills. I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. I am working on my web dev jokes repertoire, feel free to share yours!
 
