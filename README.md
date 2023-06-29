@@ -42,7 +42,6 @@
 </a>
 </p>
 <br>
-<br>
 
 <h2 align="left">Thanks for visiting my profile!</h2>
 
