@@ -35,7 +35,7 @@
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats-6u86fzsgn-nerdtransmitter.vercel.app/api?username=nerdtransmitter&show_icons=true&theme=blueberry&hide=issues,contribs" /> 
+  <img height=150 align="center" src="https://github-readme-stats-pdyg.vercel.app/api?username=nerdtransmitter&show_icons=true&theme=blueberry&hide=issues,contribs" /> 
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nerdtransmitter&layout=compact&langs_count=8&theme=blueberry" />
